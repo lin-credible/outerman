@@ -1,6 +1,5 @@
-# Hello world, I am Wang Shenwei
 
-http://wangshenwei.com/
+[WangShenwei](http://wangshenwei.com/)的个人站点, 有很多值得学习的地方 :+1:
 
 ## Thanks to
 
