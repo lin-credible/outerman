@@ -1,4 +1,5 @@
 // Model Article
+// Markdown 转换到 HTML ( marked )
 
 /*
 INCR article:cursor [next_id]
